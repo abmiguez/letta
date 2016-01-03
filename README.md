@@ -1,7 +1,7 @@
 # LETTA - Let's Talk About...
 ## Una red social de micro-quedadas
 
-LETTA es una aplicación que se basa en dos ideas centrales: los clubes de
+ETTA es una aplicación que se basa en dos ideas centrales: los clubes de
 lectura y el aprovechamiento de pequeños espacios de tiempo disponibles a lo
 largo del día (descanso del trabajo, hora de la comida, viajes en metro, etc.).
 De los clubes de lectura se toma la idea de juntar un grupo de personas para
