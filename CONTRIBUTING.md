@@ -32,7 +32,7 @@
 El proyecto LETTA se desarrolla en un entorno de integración continua con
 despliegue continuo en un servidor de pre-producción (*staging*). Este entorno
 stá compuesto por varias herramientas que automatizan el proceso, todas ellas
-dirigidas por el POM de este proyecto.
+irigidas por el POM de este proyecto.
 
 En este documento encontrarás una descripción de este entorno y las
 instrucciones para saber como contribuir correctamente a este proyecto.
