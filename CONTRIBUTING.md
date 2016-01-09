@@ -1,7 +1,7 @@
 # ¿Cómo contribuir a este proyecto?
 
 ## Tabla de contenido
-  * [1. Empezando](#1-empezando)
+ * [1. Empezando](#1-empezando)
   * [2. Desarrollo de una tarea](#2-desarrollo-de-una-tarea)
   * [3. Estructura del proyecto](#3-estructura-del-proyecto)
   * [4. Entorno de desarrollo](#4-entorno-de-desarrollo)
